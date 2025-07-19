@@ -113,5 +113,5 @@ This project is licensed under the [MIT License](LICENSE). See the LICENSE file 
 *Flask community for backend deployment guides  
 
 ## 📬 Contact
-📧 Email: [kushwahasatak@gmail.com](mailto:kushwahasatak@gmail.com)  
+📧 Email: [mauryaayush7377@gmail.com](mailto:mauryaayush7377@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/ayush4628)
