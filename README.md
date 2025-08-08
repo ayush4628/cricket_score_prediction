@@ -44,7 +44,7 @@ A Machine Learning-powered web application to predict cricket match scores based
 `├── LICENSE` – License file  
 `└── README.md` – You're here!
 
- 🚀 Run the Project Locally
+ ## 🚀 Run the Project Locally
 
 
 # 1. Clone the repository
