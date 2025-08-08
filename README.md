@@ -46,8 +46,9 @@ A Machine Learning-powered web application to predict cricket match scores based
 
 ## 🚀 Run the Project Locally
 
-```bash
+
 # 1. Clone the repository
+```bash
 git clone https://github.com/ayush4628/cricket-score-prediction.git
 cd cricket-score-prediction
 ```
